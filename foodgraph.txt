@@ -1,0 +1,6 @@
+Masala-Dosa(R.50) Idly(R.45) Poori(R.60) Apm-EGG(R.90)
+80 90 65 75 
+Veg-Meals(R.80) Non-Meals(R.100) Biriyani(R.150) Fried-rice(R.180)
+80 70 90 50
+Poro(R.10) Chap(R.15) Appam(R.10) Beef(R.50) Chk(R.80) Fish(R.70)
+90 70 50 10 54 87

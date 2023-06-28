@@ -1,0 +1,3 @@
+Masala-Dosa50 Idly45 Poori60 Apm-EGG90
+Veg-Meals80 Non-Meals100 Biriyani150 Fried-rice180
+Poro10 Chap15 Appam10 Beef50 Chk80 Fish70
